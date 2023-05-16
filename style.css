@@ -14,14 +14,14 @@ ol li {
 table {
     border-collapse: collapse;
     /*убираем пустые промежутки между ячейками*/
-    border: 1px solid grey;
+    border: 1px solid rgb(245, 238, 238);
     /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
  }
  th {
-    border: 1px solid grey;
+    border: 1px solid rgb(114, 21, 21);
  }
  td {
-    border: 1px solid grey;
+    border: 1px solid rgb(212, 19, 19);
  }
 footer {
     padding-top: 3px;

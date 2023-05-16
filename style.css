@@ -11,6 +11,18 @@ ol li {
 #table {
     line-height:200%
 }
+table {
+    border-collapse: collapse;
+    /*убираем пустые промежутки между ячейками*/
+    border: 1px solid grey;
+    /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
+ }
+ th {
+    border: 1px solid grey;
+ }
+ td {
+    border: 1px solid grey;
+ }
 footer {
     padding-top: 3px;
     padding-bottom: 3px;
